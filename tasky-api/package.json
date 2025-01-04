@@ -232,6 +232,7 @@
     "unicode-property-aliases-ecmascript": "^2.1.0",
     "update-browserslist-db": "^1.1.1",
     "uri-js": "^4.4.1",
+    "uuid": "^11.0.3",
     "v8flags": "^3.2.0",
     "which": "^2.0.2",
     "which-boxed-primitive": "^1.1.1",
